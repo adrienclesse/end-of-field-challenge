@@ -24,7 +24,7 @@ I have to admit that it was a lot of pleasure to find glowing effect on the inte
 The size might look rather big because the exercice has been realised on the high definition sample.
 To make my code as similar as the image as possible, I've found similar found and colours for my css, played a lot of margin and padding and have copy paste the original image.  My cup of tea is grid so I've used a grid display to separate the image from the text section.
 
-### final result  :firework:
+### final result  
 
 [Click here t see the final result](https://adrienclesse.github.io/end-of-field-challenge/simple-12.html)
 
@@ -37,19 +37,20 @@ To make my code as similar as the image as possible, I've found similar found an
 ### How did I proceed?  :mag:
 To design it, I used a flexbox to separate the two main sections, a grid for the tbale as grid is my cup of tea and I admit having used a long way to make the first table line with a yellow back ground.
 
-### final result  :firework:
+### final result  
 
 [Click here t see the final result](https://adrienclesse.github.io/end-of-field-challenge/complex-6.html)
 
 
 
 
-## Tools and Techs :scissors:
+## Tools used :scissors:
 Building with
 + Visual Studio Code(HTML, CSS)
 + Markdown
 + Google fonts
 + https://imagecolorpicker.com/en/
++ https://validator.w3.org/
 ***
 ## Autor and Rights :copyright:
 Developed by [Adrien CLesse](https://github.com/adrienclesse) for [BeCode](https://becode.org/)
