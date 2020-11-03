@@ -1,0 +1,18 @@
+body{
+    
+}
+
+.container{
+    display: grid;
+    grid-template-columns: 2fr 1 fr;
+    grid-template-rows:  1fr;
+    border: 2px solid red;
+}
+button{
+    color: white;
+    background-color:transparent ;
+    border: 1px solid white;
+    height: 50px;
+    width: 150px;
+    border-radius: 10px;
+}
