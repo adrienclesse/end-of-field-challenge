@@ -33,6 +33,7 @@
 
 h2{
     font-size: 55px;
+    font-weight: bold;
     font-family: roboto;
     margin-left: 40px;
     padding-right: 70px;
@@ -44,4 +45,16 @@ p{
     margin-left: 40px;
     font-size: 36px;
     padding-bottom: 60px;
+}
+
+@media only screen and (max-width: 650px) {
+    .box {
+        display: grid;
+        background-color: lightsalmon;
+        grid-template-rows: auto auto auto;
+        grid-template-columns: 1fr;
+    }   
+    img{
+        margin-top: 5%;
+    }
 }
