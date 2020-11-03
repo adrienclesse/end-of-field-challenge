@@ -55,22 +55,5 @@ Building with
 ## Autor and Rights :copyright:
 Developed by [Adrien CLesse](https://github.com/adrienclesse) for [BeCode](https://becode.org/)
 ***
-
-## Products :floppy_disk:
-
-* Interface#1 [<< View the product >>][Address1]
-
-[Address1]: https://trial-run-interface1.netlify.app/
-
-* Interface#2 [<< View the product >>][Address2] (*for Movile Devices) --No Responsive
-
-[Address2]: https://trial-run-interface2.netlify.app/
-
-* Interface#3 [<< View the product >>][Address3] --No Responsive
-
-[Address3]: https://tiral-run-interface3.netlify.app/
-
-
-
-***
 *Copyrights to Adrien Clesse for BeCode* :memo:
+***
