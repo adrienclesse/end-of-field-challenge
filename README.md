@@ -1,29 +1,59 @@
 # End Of Field Challenge Exam, Becode
 
 ## "Using Css, HTML, Markdown, Responsive Design to make a code result as similar as a picture"
+
+This project consists of the setting up responsive code lines, to make the result as close as a given picture as possible, without using framework and coding something personal and authentical.
 ***
-This project consists of the setting up responsive code lines, to make the result as close as a given picture as possible, without using framework and coding something personal and authentical:
+
+## 1. My index page 
+
+### How did I proceed?  :mag:
+
+I have to admit that it was a lot of pleasure to find glowing effect on the internet and adapt as I want to create my two buttons and a title. Making the page responsive was the chalenge of my index page.
+### final result  :firework:
+
+[Click here t see the final result](https://adrienclesse.github.io/end-of-field-challenge/)
 ***
-## The interface 12
-![](images/interface12.png)
-To make my code as similar as the image as possible, I've found similar found and colour, played a lot of margin and padding and have copy paste the original image.
 
+## 2. The interface simple n°12
 
+### Sample preview
+![](images/interface-12.png)
 
+### How did I proceed?  :mag:
+The size might look rather big because the exercice has been realised on the high definition sample.
+To make my code as similar as the image as possible, I've found similar found and colours for my css, played a lot of margin and padding and have copy paste the original image.  My cup of tea is grid so I've used a grid display to separate the image from the text section.
 
-## Restrictions :notebook:
-In relation to the product Interface # 1, due to an involuntary error it was developed in time, using the required structure, but with erroneous content; It has bugs in the font, color and content of the text. it had to be corrected in a short time.
+### final result  :firework:
+
+[Click here t see the final result](https://adrienclesse.github.io/end-of-field-challenge/simple-12.html)
+
 ***
-## Tools and Techs :hammer:
+## 3. The interface complex n°6
+
+### Sample preview
+![](images/complex-06.png)
+
+### How did I proceed?  :mag:
+To design it, I used a flexbox to separate the two main sections, a grid for the tbale as grid is my cup of tea and I admit having used a long way to make the first table line with a yellow back ground.
+
+### final result  :firework:
+
+[Click here t see the final result](https://adrienclesse.github.io/end-of-field-challenge/complex-6.html)
+
+
+
+
+## Tools and Techs :scissors:
 Building with
 + Visual Studio Code(HTML, CSS)
-+ Macromedia Fireworks
 + Markdown
-+ a Lot of Google
++ Google fonts
++ https://imagecolorpicker.com/en/
 ***
-## Autor and Rights :bulb:
-Developed by [Victor Ortega](https://github.com/ortegaVictorBe) for BeCode(https://becode.org/)
-**
+## Autor and Rights :copyright:
+Developed by [Adrien CLesse](https://github.com/adrienclesse) for [BeCode](https://becode.org/)
+***
 
 ## Products :floppy_disk:
 
@@ -39,9 +69,7 @@ Developed by [Victor Ortega](https://github.com/ortegaVictorBe) for BeCode(https
 
 [Address3]: https://tiral-run-interface3.netlify.app/
 
-***
-## Thanks :gift:
-God,PowerBuilder, TurboPascal, Becode, Fedasil.
+
 
 ***
-*Copyrights to Victor Ortega for BeCode* :memo:
+*Copyrights to Adrien Clesse for BeCode* :memo:
